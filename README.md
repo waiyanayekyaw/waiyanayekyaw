@@ -94,12 +94,6 @@
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamaiden&show_icons=true&locale=en&layout=compact" alt="williamaiden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="languages" /></p>
 
- 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamaiden&show_icons=true&locale=en" alt="williamaiden" /></p>
-
- 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamaiden&" alt="williamaiden" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyanayekyaw&show_icons=true&theme=dracula" alt="" /></p>
