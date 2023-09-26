@@ -96,4 +96,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="languages" /></p>
 
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyanayekyaw&show_icons=true&theme=dracula" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyanayekyaw&show_icons=true&theme=dracula" alt="" /></p>
