@@ -11,15 +11,7 @@
 
 - 📫 How to reach me **wy04839@gmail.com**
 
- 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/willian_aiden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willian_aiden" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/willian aiden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willian aiden" height="30" width="40" /></a>
-<a href="https://fb.com/willian aiden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="willian aiden" height="30" width="40" /></a>
-<a href="https://instagram.com/willian aiden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willian aiden" height="30" width="40" /></a>
-</p>
 
  
 
