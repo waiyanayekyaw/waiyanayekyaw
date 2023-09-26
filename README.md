@@ -1,20 +1,15 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Wai Yan Aye Kyaw</h1>
-<h3 align="center">A React Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
  
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamaiden&label=Profile%20views&color=0e75b6&style=flat" alt="williamaiden" /> </p>
+- 🌱 I’m currently learning **React**
 
  
 
-- 🌱 I’m currently learning **Flutter**
-
- 
-
-- 📫 How to reach me **aungmyokhant459@gmail.com**
+- 📫 How to reach me **wy04839@gmail.com**
 
  
 
