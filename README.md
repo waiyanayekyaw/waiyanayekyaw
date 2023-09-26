@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Willian Aiden</h1>
-<h3 align="center">A passionate Mobile developer from Myanmar</h3>
+<h1 align="center">Hi 👋, I'm Wai Yan Aye Kyaw</h1>
+<h3 align="center">A React Developer</h3>
 
  
 
